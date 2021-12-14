@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Award Malisi</h1>
-<h3 align="center">Just trying to get by and help out where I can</h3>
+<h1 align="center">Hi 👋,    I'm Award Malisi</h1>
+<h3 align="center">I'm just trying to get by and help out where I can</h3>
 
-- 🔭 I’m currently working on **being a better web-developer**
+- 🔭 I’m currently working on **being a better web-developer and musician**
 
 - 🌱 I’m currently learning **Vue.js, & Nuxt.js**
 
 - 👯 I’m looking to collaborate on **basic websites + basic web-apps**
 
-- 🤝 I’m looking for help with **nothing at the moment, Udemy is taking good care of me**
+- 🤝 I’m looking for help with **anything that is related to web-development or music. Althought I believe I know my path, I am more than willing to take advice from anything willing to help me get better at the two topics listed previously.**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
-
+- 👨‍💻 All of my projects are available at [Coming Soon]
+- 
 - 📝 I regularly write articles on [https://www.ccm-biome.com/#/](https://www.ccm-biome.com/#/)
 
 - 📫 How to reach me **awardmalisi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/award-malisi/](https://www.linkedin.com/in/award-malisi/)
-
-- ⚡ Fun fact **I can play a little guitar**
+- 📄 My Resume can be found here: [https://www.linkedin.com/in/award-malisi/](https://www.linkedin.com/in/award-malisi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
