@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **basic websites + basic web-apps**
 
-- 🤝 I’m looking for help with **anything that is related to web-development or music. Althought I believe I know my path, I am more than willing to take advice from anything willing to help me get better at the two topics listed previously.**
+- 🤝 I’m looking for help with **anything that is related to web-development or music. Althought I believe I know my path, I am more than willing to take advice from anyone willing to help me get better at the two topics listed previously.**
 
 - 👨‍💻 All of my projects are available at [Coming Soon]
 
