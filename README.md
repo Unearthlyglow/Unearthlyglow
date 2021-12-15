@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **being a better web-developer and musician**
 
-- 🌱 I’m currently learning **Vue.js, & Nuxt.js**
+- 🌱 I’m currently putting my focus on really learning **Javascript, Typescript, & Vue.js** at the moment. 
 
 - 👯 I’m looking to collaborate on **basic websites + basic web-apps**
 
