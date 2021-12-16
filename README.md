@@ -6,7 +6,7 @@
 - 🌱 I’m currently putting my focus on really learning **Javascript, Typescript, & Vue.js** at the moment. 
 
 - 👯 I’m looking to collaborate on **basic websites + basic web-apps**
-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/inkscape.svg" />
+- <style color="#000000"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/inkscape.svg" /> </style>
 
 - 🤝 I’m looking for help with **anything that is related to web-development or music. Althought I believe I know my path, I am more than willing to take advice from anyone willing to help me get better at the two topics listed previously.**
 
