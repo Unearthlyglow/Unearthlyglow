@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I hope you're well. I am Award Malisi</h1>
+<h1 align="center">Hello, I hope you're well. I am Award Malisi.</h1>
+<h2 align = "center">This is a new trek into</h2>
 <h3 align="center">I'm just trying to get by and help out where I can</h3>
 
 - 🔭 I’m currently working on **being a better web-developer and musician**
